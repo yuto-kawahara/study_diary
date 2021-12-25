@@ -45,3 +45,8 @@
 Reactの知識だけ身に付けても身に付くのは書き方だけ、
 もっとJavascript本体の動作原理、メカニズムを知ることが先決
 
+### 12/25
+LinuxやAWSの学習継続
+* AWSでEC2インスタンスにNginxをインストールしHttps接続する
+* DockerとECS、Fargateを使用した開発環境構築
+* Kubernetes
